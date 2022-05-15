@@ -1,2 +1,7 @@
 # schoto2.github.io
-JS Game: Fruit Snake
+Java Script Project: Fruit Snake
+The controls for this program are very simple the users have to use the arrow keys on their computers in order to move the snake to the apple. The main objective for the players is to see how many apples they could eat until they hit the edge of the walls or hit themselves since the snake will become bigger in size. The whole point of this project was to make a little game with what I learned in my class. Growing up as a kid I always wonder how people would make little fun games on the computers. So you could say that I pick this game since everyone enjoys these types of games since it kind of relates to the famous video game Pac man. I tried to make a neon-type fruit snake game for this project, but I couldn't find how to do that. Instead, I made the snake change different colors every time the snake eats an apple and that body part will be pushed to the end of the snake. In addition, working on this project was very fun but at the same time challenging since it was something new to me. On the other hand, when making a project you have to put a lot of effort into doing the research so the vision of your project can come to life. For example, I had to use many websites like p5js.org, w3schools, and geeksforgeeks to use the reference pages to use certain codes to help me make my game a little better. Also for the base of my code, I had help from a youtube channel called The Code Train which worked on the fruit snake way but didn't have certain features like keeping the score, different body colors, game over text, and the score text.
+https://p5js.org/reference/
+https://www.youtube.com/watch?v=AaGK-fj-BAM
+https://www.w3schools.com/
+https://www.geeksforgeeks.org/
